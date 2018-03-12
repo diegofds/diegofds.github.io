@@ -1,4 +1,4 @@
-title: &ltDS Blog/&gt
+title: DS Blog
 description: descrição do meu blog
 
 url: https://diegofds.github.io/
@@ -22,7 +22,7 @@ navigation:
 social:
    github: diegofds
    twitter: 
-   facebook: 
+   facebook: https://www.facebook.com/diego.faria.jpa
    email: ti.diegof@gmail.com
 
 google_analytics: 

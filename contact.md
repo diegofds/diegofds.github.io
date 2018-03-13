@@ -10,13 +10,13 @@ title: Contato DS-Blog
     <p>Para mais informações, pode me enviar um email.</p>
     
   </div>
-    <form action="https://formspree.io/ti.diegof@gmail.com" method="POST">
-    <label for="nome">Nome</label>
-    <input type="text" id="nome" name="nome" class="full-width"><br>
+    <form method="POST" action="https://formspree.io/ti.diegof@gmail.com">
+    <label for="name">Nome</label>
+    <input type="text" name="name" class="full-width" placeholder="Seu nome"><br>
     <label for="email">Seu Email</label>
-    <input type="email" id="email" name="_replyto" class="full-width" placeholder="Digite seu email"><br>
-    <label for="texto">Mensagem</label>
-    <textarea name="texto" id="texto" cols="30" rows="10" class="full-width" placeholder="Digite sua mensagem"></textarea><br>
+    <input type="email" name="_replyto" class="full-width" placeholder="Digite seu email"><br>
+    <label for="message">Mensagem</label>
+    <textarea name="message" cols="30" rows="10" class="full-width" placeholder="Digite sua mensagem"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
  </div>

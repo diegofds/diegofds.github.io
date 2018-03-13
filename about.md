@@ -7,11 +7,11 @@ title: Sobre
 	<h1 class="pageTitle">Sobre Mim </h1>
 	<!--<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">-->
 	
-	<p>Meu nome é Diego Faria dos Santos, nascido e criado no Rio de Janeiro e atualmente estou cursando ciências da computaçãon, na Unicarioca.Demorei algum tempo para me aproximar do mundo de desenvolvimento, porém tenho me dedicado a aprender e evoluir um pouco mais a cada dia.
+	<p>Meu nome é Diego Faria dos Santos, nascido e criado no Rio de Janeiro e atualmente estou cursando Ciência da Computação, na Unicarioca.Demorei algum tempo para me aproximar do mundo de desenvolvimento, porém tenho me dedicado a aprender e evoluir um pouco mais a cada dia.
 
 	Gosto de trabalhar em equipe e de "trocar" conhecimento e estou sempre buscando algo novo para aprender.
 	
-	</p>
+	</p><br>
 	
 	<h2>Um pouco do que aprendi</h2>
 	<ul>
@@ -23,7 +23,7 @@ title: Sobre
   		<li>Orientação a Objetos com Java</li>
 		<li>MySQL</li>
 		  		
-  	</ul>
+  	</ul><br>
 	
 	<h2>Por onde passei</h2>
 	<ul>

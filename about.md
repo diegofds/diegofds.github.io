@@ -1,24 +1,37 @@
 ---
 layout: default
-title: About Long Haul
+title: Sobre 
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">Sobre Mim </h1>
+	<!--<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">-->
+	
+	<p>Meu nome é Diego Faria dos Santos, nascido e criado no Rio de Janeiro e atualmente estou cursando ciências da computaçãon, na Unicarioca.Demorei algum tempo para me aproximar do mundo de desenvolvimento, porém tenho me dedicado a aprender e evoluir um pouco mais a cada dia.
+
+	Gosto de trabalhar em equipe e de "trocar" conhecimento e estou sempre buscando algo novo para aprender.
+	
+	</p>
+	
+	<h2>Um pouco do que aprendi</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>HTML</li>
+  		<li>CSS</li>
+		<li>BootStrap</li>
+  		<li>Javascript básico</li>
+  		<li>Github</li>
+  		<li>Orientação a Objetos com Java</li>
+		<li>MySQL</li>
+		  		
   	</ul>
+	
+	<h2>Por onde passei</h2>
+	<ul>
+		<li>Telvent (2011-2012)</li>
+		<li>Tecsal (2012)</li>
+		<li>Ebd-1 (2012-2014)</li>
+		<li>Amoedo (2014-2017)</li>
+				  		
+  	</ul>	
+	
 </div>
